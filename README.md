@@ -10,9 +10,9 @@
   </p>
 
   <a href="https://github.com/saikat912/Oil-and-Gas-Project-">
-    <img src="https://img.shields.io/github/stars/your-username/Oil-Gas-Project-?style=social" alt="Stars Badge"/>
+    <img src="https://img.shields.io/github/stars/saikat912/Oil-Gas-Project-?style=social" alt="Stars Badge"/>
   </a>
-  <a href="https://github.com/saikat912/oil-Gas-Project/network/members">
+  <a href="https://github.com/saikat912/oil-Gas-Project-/network/members">
     <img src="https://img.shields.io/github/forks/saikat912/Oil-and-Gas-Project-?style=social" alt="Forks Badge"/>
   </a>
   <a href="https://github.com/saikat912/Oil-and-Gas-Project-/pulls">
