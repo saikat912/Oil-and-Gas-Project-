@@ -1,7 +1,7 @@
 # Oil-and-Gas-Project-
 <div align="center">
 
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*mkSvMkBzX9oQfnB9-w-45w.png" alt="Oil Rig" width="400">
+  <img src="https://github.com/saikat912/Oil-and-Gas-Project-/blob/2fee81fdaed2c4050360d586047e46dc92cb5572/images.jpeg" alt="Oil Rig" width="400">
 
   <h1>Oil and Gas Production Analysis </h1>
 
