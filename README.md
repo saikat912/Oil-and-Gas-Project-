@@ -9,17 +9,17 @@
     Analyzing well production data to uncover key insights and predict future performance.
   </p>
 
-  <a href="https://github.com/saikat912/Oil-and-Gas-project-">
+  <a href="https://github.com/saikat912/Oil-and-Gas-Project-">
     <img src="https://img.shields.io/github/stars/your-username/Oil-Gas-Project-?style=social" alt="Stars Badge"/>
   </a>
-  <a href="https://github.com/saikat912/oil-Gas-project/network/members">
-    <img src="https://img.shields.io/github/forks/saikat912/Oil-and-Gas-project-?style=social" alt="Forks Badge"/>
+  <a href="https://github.com/saikat912/oil-Gas-Project/network/members">
+    <img src="https://img.shields.io/github/forks/saikat912/Oil-and-Gas-Project-?style=social" alt="Forks Badge"/>
   </a>
-  <a href="https://github.com/saikat912/Oil-and-Gas-project-/pulls">
-    <img src="https://img.shields.io/github/issues/your-username/your-repo-name" alt="Pull Requests Badge"/>
+  <a href="https://github.com/saikat912/Oil-and-Gas-Project-/pulls">
+    <img src="https://img.shields.io/github/issues/saikat912/Oil-and-Gas-Project-" alt="Pull Requests Badge"/>
   </a>
-  <a href="https://github.com/saikat912/Oil-and-Gas-project-/issues">
-    <img src="https://img.shields.io/github/issues-closed/saikat912/Oil-and-Gas-project-" alt="Issues Closed Badge"/>
+  <a href="https://github.com/saikat912/Oil-and-Gas-Project-/issues">
+    <img src="https://img.shields.io/github/issues-closed/saikat912/Oil-and-Gas-Project-" alt="Issues Closed Badge"/>
   </a>
 
 </div>
